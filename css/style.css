@@ -1280,7 +1280,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 8, ../../Arafath/CL/Cl November/221. Music/HTML/scss/_slider.scss */
   .slider_area .single_slider {
-    height: 100vh;
+    height: 50vh;
   }
 }
 

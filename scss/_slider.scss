@@ -11,7 +11,7 @@
         background-repeat: no-repeat;
         background-position: center center;
         @media #{$mobile_device} {
-            height: 100vh;
+            height: 50vh;
         }
         .slider_text{
             h3{
